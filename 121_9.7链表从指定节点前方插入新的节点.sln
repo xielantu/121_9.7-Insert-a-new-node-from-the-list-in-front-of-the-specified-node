@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "121_9.7链表从指定节点前方插入新的节点", "121_9.7链表从指定节点前方插入新的节点.vcxproj", "{CC41951E-5720-4054-B1D0-5620692804C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC41951E-5720-4054-B1D0-5620692804C3}.Debug|x64.ActiveCfg = Debug|x64
+		{CC41951E-5720-4054-B1D0-5620692804C3}.Debug|x64.Build.0 = Debug|x64
+		{CC41951E-5720-4054-B1D0-5620692804C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC41951E-5720-4054-B1D0-5620692804C3}.Debug|x86.Build.0 = Debug|Win32
+		{CC41951E-5720-4054-B1D0-5620692804C3}.Release|x64.ActiveCfg = Release|x64
+		{CC41951E-5720-4054-B1D0-5620692804C3}.Release|x64.Build.0 = Release|x64
+		{CC41951E-5720-4054-B1D0-5620692804C3}.Release|x86.ActiveCfg = Release|Win32
+		{CC41951E-5720-4054-B1D0-5620692804C3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F624A70-E32E-4CBA-9E9D-B9A17309AFA7}
+	EndGlobalSection
+EndGlobal
